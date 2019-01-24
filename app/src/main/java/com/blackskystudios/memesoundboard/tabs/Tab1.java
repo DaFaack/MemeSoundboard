@@ -1,4 +1,4 @@
-package com.riftgames.memesoundboard.tabs;
+package com.blackskystudios.memesoundboard.tabs;
 
 import android.Manifest;
 import android.app.AlertDialog;
@@ -29,8 +29,8 @@ import android.widget.Button;
 import android.widget.GridView;
 import android.widget.Toast;
 
-import com.riftgames.memesoundboard.MainActivity;
-import com.riftgames.memesoundboard.R;
+import com.blackskystudios.memesoundboard.MainActivity;
+import com.blackskystudios.memesoundboard.R;
 
 import java.io.File;
 import java.io.FileOutputStream;

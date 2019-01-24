@@ -1,4 +1,4 @@
-package com.riftgames.memesoundboard;
+package com.blackskystudios.memesoundboard;
 
 import android.content.DialogInterface;
 import android.content.Intent;
@@ -16,8 +16,8 @@ import android.util.Log;
 import android.view.MenuItem;
 import android.widget.Toast;
 
-import com.riftgames.memesoundboard.tabs.Tab1;
-import com.riftgames.memesoundboard.tabs.Tab2;
+import com.blackskystudios.memesoundboard.tabs.Tab1;
+import com.blackskystudios.memesoundboard.tabs.Tab2;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 

@@ -1,4 +1,4 @@
-package com.riftgames.memesoundboard;
+package com.blackskystudios.memesoundboard;
 
 import org.junit.Test;
 

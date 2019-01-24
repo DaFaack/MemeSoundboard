@@ -1,4 +1,4 @@
-package com.riftgames.memesoundboard;
+package com.blackskystudios.memesoundboard;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -14,8 +14,8 @@ import android.view.ViewGroup;
 import com.google.android.gms.ads.AdListener;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.InterstitialAd;
-import com.riftgames.memesoundboard.tabs.Tab1;
-import com.riftgames.memesoundboard.tabs.Tab2;
+import com.blackskystudios.memesoundboard.tabs.Tab1;
+import com.blackskystudios.memesoundboard.tabs.Tab2;
 
 
 public class TabFragment extends Fragment {

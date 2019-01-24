@@ -1,7 +1,7 @@
 <resources>
 
     <string name="app_name">Meme and Vine Soundboard</string>
-    <string name="package_name">com.riftgames.memesoundboard</string>
+    <string name="package_name">com.blackskystudios.memesoundboard</string>
 
 
     <!--Ad-->
@@ -14,7 +14,7 @@
     <string name="tab1">Memes</string>
     <string name="tab2">Vines</string>
     <!--Share app-->
-    <string name="playstore_link">https://play.google.com/store/apps/details?id=com.riftgames.memesoundboard</string>
+    <string name="playstore_link">https://play.google.com/store/apps/details?id=com.blackskystudios.memesoundboard</string>
     <string name="share_text">Get the</string>
     <string name="share_via">Share via...</string>
 
@@ -30,7 +30,7 @@
     <string name="notification_title">Notification</string>
     <string name="alarm_title">Alarm tone</string>
 
-    <string name="rechtliches">This is an unofficial app, which was made by two students. If your content is shown in this app and you don\'t agree with it, please get in contact with us and we will delete the content from you immediately.\n\n<b>Imprint:</b>\nJordie.abel98@gmail.com</string>
+    <string name="rechtliches">This is an unofficial app, which was made by two students. If your content is shown in this app and you don\'t agree with it, please get in contact with us and we will delete the content from you immediately.\n\n<b>Imprint:</b>\nblackskystudios.business@gmail.com</string>
 
     <!--Permission-->
     <string name="notice_that_app_needs_access_to_settings">The app needs access to your settings</string>

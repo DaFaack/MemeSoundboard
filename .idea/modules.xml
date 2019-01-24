@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MemeSoundboard.iml" filepath="$PROJECT_DIR$/MemeSoundboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MemeSoundboard.iml" filepath="$PROJECT_DIR$/.idea/MemeSoundboard.iml" />
+      <module fileurl="file://C:\Users\aaron\Desktop\BlackSkyStudios\Soundboards\MemeSoundboard\MemeSoundboard.iml" filepath="C:\Users\aaron\Desktop\BlackSkyStudios\Soundboards\MemeSoundboard\MemeSoundboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\aaron\Desktop\BlackSkyStudios\Soundboards\MemeSoundboard\app\app.iml" filepath="C:\Users\aaron\Desktop\BlackSkyStudios\Soundboards\MemeSoundboard\app\app.iml" />
     </modules>
   </component>
 </project>

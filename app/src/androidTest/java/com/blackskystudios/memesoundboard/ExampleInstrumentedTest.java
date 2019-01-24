@@ -1,4 +1,4 @@
-package com.riftgames.memesoundboard;
+package com.blackskystudios.memesoundboard;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.riftgames.memesoundboard", appContext.getPackageName());
+        assertEquals("com.blackskystudios.memesoundboard", appContext.getPackageName());
     }
 }
